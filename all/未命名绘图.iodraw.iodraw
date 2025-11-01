@@ -16,21 +16,6 @@
         <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-4" value="Vertical Tree Layout" style="swimlane;startSize=20;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="280" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-5" value="Root" style="whiteSpace=wrap;html=1;" vertex="1" parent="sCd2EHFkmMZfMx6WJ6lJ-4">
-          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-6" value="Child 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="sCd2EHFkmMZfMx6WJ6lJ-4">
-          <mxGeometry x="20" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="sCd2EHFkmMZfMx6WJ6lJ-4" source="sCd2EHFkmMZfMx6WJ6lJ-5" target="sCd2EHFkmMZfMx6WJ6lJ-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-8" value="Child 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="sCd2EHFkmMZfMx6WJ6lJ-4">
-          <mxGeometry x="160" y="130" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sCd2EHFkmMZfMx6WJ6lJ-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="sCd2EHFkmMZfMx6WJ6lJ-4" source="sCd2EHFkmMZfMx6WJ6lJ-5" target="sCd2EHFkmMZfMx6WJ6lJ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
